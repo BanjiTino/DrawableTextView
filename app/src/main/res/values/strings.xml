@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DrawableTextView</string>
+    <string name="hint_attribute_test">hint_attribute_test</string>
+    <string name="ic_launcher_round_full_screen">ic_launcher_round_full_screen</string>
+    <string name="test">Test</string>
+</resources>
